@@ -3,14 +3,14 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "CV"
+title = "Projects"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  #page_type = "project"
+  page_type = "project"
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -21,10 +21,9 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
 
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*
-
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
 
 
 [design]
@@ -67,7 +66,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-You can check an up to date version of my cv below:
-
-
-<iframe src="https://drive.google.com/file/d/1LPk5eRXysvaBzcNMQ3Y5wQg6_yAcx1kn/preview" style="width:100%; height:500px;" frameborder="0"></iframe>
