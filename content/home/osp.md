@@ -72,6 +72,100 @@ Below you'll find an overview of the open source projects I'm involved in. The s
 **Teaching**
 <table>
     <tr>
+        <td><a href="https://https://github.com/PeerHerholz/workshop_marburg">PeerHerholz/workshop_marburg</a></td>
+        <td>
+            <a href="https://GitHub.com/PeerHerholz/workshop_marburg/graphs/contributors/">
+                <img src="https://img.shields.io/github/contributors/PeerHerholz/workshop_marburg.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="http://hits.dwyl.io/PeerHerholz/workshop_marburg">
+                <img src="http://hits.dwyl.io/PeerHerholz/workshop_marburg.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/PeerHerholz/workshop_marburg/archive/master.zip">
+                <img src="https://github-size-badge.herokuapp.com/PeerHerholz/workshop_marburg.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/PeerHerholz/workshop_marburg/issues/">
+                <img src="https://img.shields.io/github/issues/PeerHerholz/workshop_marburg.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/PeerHerholz/workshop_marburg/pulls/">
+                <img src="https://img.shields.io/github/issues-pr/PeerHerholz/workshop_marburg.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://hub.docker.com/r/PeerHerholz/workshop_marburg/">
+                <img src="https://img.shields.io/docker/pulls/PeerHerholz/workshop_marburg.svg?maxAge=2592000"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://https://github.com/PeerHerholz/workshop_magdeburg">PeerHerholz/workshop_magdeburg</a></td>
+        <td>
+            <a href="https://GitHub.com/PeerHerholz/workshop_magdeburg/graphs/contributors/">
+                <img src="https://img.shields.io/github/contributors/PeerHerholz/workshop_magdeburg.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="http://hits.dwyl.io/PeerHerholz/workshop_magdeburg">
+                <img src="http://hits.dwyl.io/PeerHerholz/workshop_magdeburg.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/PeerHerholz/workshop_magdeburg/archive/master.zip">
+                <img src="https://github-size-badge.herokuapp.com/PeerHerholz/workshop_magdeburg.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/PeerHerholz/workshop_magdeburg/issues/">
+                <img src="https://img.shields.io/github/issues/PeerHerholz/workshop_magdeburg.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/PeerHerholz/workshop_magdeburg/pulls/">
+                <img src="https://img.shields.io/github/issues-pr/PeerHerholz/workshop_magdeburg.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://hub.docker.com/r/PeerHerholz/workshop_magdeburg/">
+                <img src="https://img.shields.io/docker/pulls/PeerHerholz/workshop_magdeburg.svg?maxAge=2592000"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://https://github.com/neurodatascience/NeuroDataSci-course-2019">neurodatascience/NeuroDataSci-course-2019</a></td>
+        <td>
+            <a href="https://GitHub.com/neurodatascience/NeuroDataSci-course-2019/graphs/contributors/">
+                <img src="https://img.shields.io/github/contributors/neurodatascience/NeuroDataSci-course-2019.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="http://hits.dwyl.io/neurodatascience/NeuroDataSci-course-2019">
+                <img src="http://hits.dwyl.io/neurodatascience/NeuroDataSci-course-2019.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/neurodatascience/NeuroDataSci-course-2019/archive/master.zip">
+                <img src="https://github-size-badge.herokuapp.com/neurodatascience/NeuroDataSci-course-2019.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/neurodatascience/NeuroDataSci-course-2019/issues/">
+                <img src="https://img.shields.io/github/issues/neurodatascience/NeuroDataSci-course-2019.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/neurodatascience/NeuroDataSci-course-2019/pulls/">
+                <img src="https://img.shields.io/github/issues-pr/neurodatascience/NeuroDataSci-course-2019.svg"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/PeerHerholz/workshop_mumbai">peerherholz/workshop_mumbai</a></td>
         <td>
             <a href="https://GitHub.com/peerherholz/workshop_mumbai/graphs/contributors/">
@@ -331,6 +425,62 @@ Below you'll find an overview of the open source projects I'm involved in. The s
 
 **Contributor**
 <table>
+    <tr>
+        <td><a href="https://github.com/HBClab/NiBetaSeries">HBClab/NiBetaSeries</a></td>
+        <td>
+            <a href="https://GitHub.com/HBClab/NiBetaSeries/graphs/contributors/">
+                <img src="https://img.shields.io/github/contributors/HBClab/NiBetaSeries.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="http://hits.dwyl.io/HBClab/NiBetaSeries">
+                <img src="http://hits.dwyl.io/HBClab/NiBetaSeries.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/HBClab/NiBetaSeries/archive/master.zip">
+                <img src="https://github-size-badge.herokuapp.com/HBClab/NiBetaSeries.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/HBClab/NiBetaSeries/issues/">
+                <img src="https://img.shields.io/github/issues/HBClab/NiBetaSeries.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/HBClab/NiBetaSeries/pulls/">
+                <img src="https://img.shields.io/github/issues-pr/HBClab/NiBetaSeries.svg"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/ingo-m/py_depthsampling">ingo-m/py_depthsampling</a></td>
+        <td>
+            <a href="https://GitHub.com/ingo-m/py_depthsampling/graphs/contributors/">
+                <img src="https://img.shields.io/github/contributors/ingo-m/py_depthsampling.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="http://hits.dwyl.io/ingo-m/py_depthsampling">
+                <img src="http://hits.dwyl.io/ingo-m/py_depthsampling.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/ingo-m/py_depthsampling/archive/master.zip">
+                <img src="https://github-size-badge.herokuapp.com/ingo-m/py_depthsampling.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/ingo-m/py_depthsampling/issues/">
+                <img src="https://img.shields.io/github/issues/ingo-m/py_depthsampling.svg"/>
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/ingo-m/py_depthsampling/pulls/">
+                <img src="https://img.shields.io/github/issues-pr/ingo-m/py_depthsampling.svg"/>
+            </a>
+        </td>
+    </tr>
     <tr>
         <td><a href="https://github.com/miykael/fmriflows">miykael/fmriflows</a></td>
         <td>
